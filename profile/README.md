@@ -17,6 +17,16 @@ Sneferu brings independent AI models together to turn a goal into software, rese
 
 We call that **adversarial convergence**. The point is not more AI conversation. It is a better result, with a record of how it was built.
 
+<p align="center">
+  <a href="https://sneferu.ai/">
+    <img
+      src="https://github.com/user-attachments/assets/edb3a635-1309-4a53-acbc-8112f9358492"
+      alt="A scrolling showcase of products built by Sneferu"
+      width="1000">
+  </a>
+</p>
+
+
 ## One platform. Different kinds of work.
 
 - **Software:** develop the specification, build in the real project, test, review, and repair.
@@ -26,7 +36,7 @@ We call that **adversarial convergence**. The point is not more AI conversation.
 
 **[Software On Demand](https://sneferu.ai/sod/)** is the application-building service powered by Sneferu. Describe what you need, review the specification, and try the resulting application before accepting delivery.
 
-## Built with Sneferu
+
 
 Some examples:
 
