@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://sneferu.ai/">
-    <img src="https://github.com/user-attachments/assets/ad7a91bc-f908-4a05-bee0-bb0d69ca0f87" alt="Sneferu — The operating system for finished work. Independent minds. Evidence-led work." width="600">
+    <img src="https://github.com/user-attachments/assets/0a5be471-4a0c-4be3-b2c8-8040a10f9c96" alt="Sneferu — The operating system for finished work. Independent minds. Evidence-led work." width="1200" height="348">
   </a>
 </p>
 
